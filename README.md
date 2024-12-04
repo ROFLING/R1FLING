@@ -34,12 +34,6 @@ Hi, I'm **R1fling**, a passionate developer dedicated to building tools, bots, a
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROFLING&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROFLING&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/riflin6)  
 
