@@ -35,8 +35,8 @@ Hi, I'm **R1fling**, a passionate developer dedicated to building tools, bots, a
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1fling&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R1fling&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROFLING&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROFLING&layout=compact&theme=radical)
 
 ---
 
