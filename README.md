@@ -36,7 +36,8 @@ Hi, I'm **R1fling**, a passionate developer dedicated to building tools, bots, a
 
 ## 📫 How to Reach Me
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/riflin6)  
-
+![Discord](https://img.shields.io/badge/Discord-rifl1ng-%237289DA?style=flat&logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lastheroes02@gmail.com) 
 ---
 
 💡 _Feel free to check out my repositories and connect with me for collaboration!_
